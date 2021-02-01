@@ -1,0 +1,92 @@
+<VRTDataset rasterXSize="3543" rasterYSize="2569">
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+  </Metadata>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        ">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:ModifyDate>2012-02-27T11:05:37+01:00</xmp:ModifyDate>
+          <xmp:CreatorTool>Adobe Photoshop CS2 Windows</xmp:CreatorTool>
+          <xmp:CreateDate>2011-09-12T12:15:20+02:00</xmp:CreateDate>
+          <xmp:MetadataDate>2012-02-27T11:05:37+01:00</xmp:MetadataDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">
+          <xmpMM:DocumentID>uuid:2D916F0B28DDE0118BFDC244E9418136</xmpMM:DocumentID>
+          <xmpMM:InstanceID>xmp.iid:B2A7EC6D2A61E111959CFD99C5FEA61A</xmpMM:InstanceID>
+          <xmpMM:OriginalDocumentID>uuid:2D916F0B28DDE0118BFDC244E9418136</xmpMM:OriginalDocumentID>
+          <xmpMM:History>
+            <rdf:Seq>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:B1A7EC6D2A61E111959CFD99C5FEA61A</stEvt:instanceID>
+                <stEvt:when>2012-02-27T11:05:37+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Photoshop CS5 Windows</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <stEvt:action>saved</stEvt:action>
+                <stEvt:instanceID>xmp.iid:B2A7EC6D2A61E111959CFD99C5FEA61A</stEvt:instanceID>
+                <stEvt:when>2012-02-27T11:05:37+01:00</stEvt:when>
+                <stEvt:softwareAgent>Adobe Photoshop CS5 Windows</stEvt:softwareAgent>
+                <stEvt:changed>/</stEvt:changed>
+              </rdf:li>
+            </rdf:Seq>
+          </xmpMM:History>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <dc:format>image/tiff</dc:format>
+          <dc:rights>
+            <rdf:Alt>
+              <rdf:li xml:lang="x-default">Copyright (C) reserved</rdf:li>
+            </rdf:Alt>
+          </dc:rights>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/">
+          <photoshop:ColorMode>3</photoshop:ColorMode>
+          <photoshop:ICCProfile>Adobe RGB (1998)</photoshop:ICCProfile>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/">
+          <xmpRights:Marked>False</xmpRights:Marked>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <GCPList Projection="GEOGCS[&quot;WGS 84&quot;,DATUM[&quot;WGS_1984&quot;,SPHEROID[&quot;WGS 84&quot;,6378137,298.257223563,AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]],AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]],PRIMEM[&quot;Greenwich&quot;,0,AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]],UNIT[&quot;degree&quot;,0.0174532925199433,AUTHORITY[&quot;EPSG&quot;,&quot;9122&quot;]],AXIS[&quot;Latitude&quot;,NORTH],AXIS[&quot;Longitude&quot;,EAST],AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]" dataAxisToSRSAxisMapping="2,1">
+    <GCP Id="" Pixel="981.0000" Line="1316.0000" X="4.469327000000E+00" Y="5.192037000000E+01" />
+    <GCP Id="" Pixel="1369.0000" Line="2048.0000" X="4.475182000000E+00" Y="5.191504500000E+01" />
+    <GCP Id="" Pixel="2826.0000" Line="261.0000" X="4.491048000000E+00" Y="5.193004500000E+01" />
+  </GCPList>
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Red</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">examples/NL-RtSA_4201_I-138-02-5.jpg</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3543" RasterYSize="2569" DataType="Byte" BlockXSize="3543" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3543" ySize="2569" />
+      <DstRect xOff="0" yOff="0" xSize="3543" ySize="2569" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="2">
+    <ColorInterp>Green</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">examples/NL-RtSA_4201_I-138-02-5.jpg</SourceFilename>
+      <SourceBand>2</SourceBand>
+      <SourceProperties RasterXSize="3543" RasterYSize="2569" DataType="Byte" BlockXSize="3543" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3543" ySize="2569" />
+      <DstRect xOff="0" yOff="0" xSize="3543" ySize="2569" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Byte" band="3">
+    <ColorInterp>Blue</ColorInterp>
+    <SimpleSource>
+      <SourceFilename relativeToVRT="0">examples/NL-RtSA_4201_I-138-02-5.jpg</SourceFilename>
+      <SourceBand>3</SourceBand>
+      <SourceProperties RasterXSize="3543" RasterYSize="2569" DataType="Byte" BlockXSize="3543" BlockYSize="1" />
+      <SrcRect xOff="0" yOff="0" xSize="3543" ySize="2569" />
+      <DstRect xOff="0" yOff="0" xSize="3543" ySize="2569" />
+    </SimpleSource>
+  </VRTRasterBand>
+</VRTDataset>
